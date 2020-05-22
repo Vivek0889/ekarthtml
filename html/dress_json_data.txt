@@ -1,0 +1,38 @@
+{"productArray":[
+  { 
+	productname:"Lorem Canvas Lower sneaker",
+	manufacturer:"Canvas",
+	icon:"img/arrivel/arrivel_5.png",
+	price:"150"
+  },
+  { 
+	productname:"PUMA casuals",
+	manufacturer:"Puma",
+	icon:"img/arrivel/arrivel_2.png",
+	price:"200"
+  },
+  { 
+	productname:"Reebok Pullover",
+	manufacturer:"Reebok",
+	icon:"img/arrivel/arrivel_3.png",
+	price:"250"
+  },
+  { 
+	productname:"MonteCarlo Sweater",
+	manufacturer:"Monte Carlo",
+	icon:"img/arrivel/arrivel_4.png",
+	price:"300"
+  },
+  { 
+	productname:"Fila sports Cap",
+	manufacturer:"Fila",
+	icon:"img/arrivel/arrivel_1.png",
+	price:"25"
+  },
+  { 
+	productname:"American Eagle Suits collection",
+	manufacturer:"American Eagle",
+	icon:"img/arrivel/arrivel_6.png",
+	price:"400"
+  }
+]}
